@@ -3,7 +3,6 @@
 ## Table of Contents
 
 * [Overview](#Overview)
-* [How to Load the Game](#Howtoload)
 * [How to Begin](#Howtobegin)
 * [How to Play](#Howtoplay)
 * [Dependencies](#Dependencies)
@@ -13,9 +12,6 @@
 ## Overview
 This Project creates a arcade game using Object Oriented JavaScript.
 All entities are setted up as object and controlled by object's properties.
-
-## How to Load the Game
-Download or clone the repository and open (index.html](index.html) in your favorite browser.
 
 ## How to Begin
 * Use keyboard to play this game.
@@ -27,7 +23,7 @@ Download or clone the repository and open (index.html](index.html) in your favor
 * Avoiding bugs is important. Player has 3 chances. Run out of lives will lose the game.
 * Collection of gemstones will earn more scores.
 
-Ready to Paly: [Go here](index.html)
+Ready to Paly: [Go here](https://emma319.github.io/ArcadeGame/)
 
 
 ## Dependencies
